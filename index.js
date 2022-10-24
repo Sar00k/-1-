@@ -12,7 +12,7 @@ db.options({
     filename: 'ec.sqlite'
 })
 
-client.login(TOKEN).catch(console.error);
+client.login(MTAyNzEyOTAwMTEwMzMzOTU3MA.GH8sK2.DvFrrBl54Wcpv7CTYKKM4fqaS-N8NM_qjoCvqo).catch(console.error);
 
 
 require(`${process.cwd()}/handlers/eventHandler.js`)(client);
